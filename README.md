@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Developer
 -----------------------------
 
-I am a recent 2023 graduate with a BS in Mathematics and Economics, and a minor in Computer Science from Iowa State University. My technical expertise spans JavaScript, TypeScript, Java, React.js, and Node.js. Throughout my academic career, I have been actively engaged in multiple internships, allowing me to contribute to various projects and gain valuable experience. I am currently looking for a full-time position as a Software Developer.
+I am a recent 2023 graduate with a BS in Mathematics and Economics and a minor in Computer Science from Iowa State University. My technical expertise spans JavaScript, TypeScript, Java, React.js, and Node.js. 
+
+Throughout my academic career, I have been actively engaged in multiple internships, allowing me to contribute to various projects and gain valuable experience. I am currently looking for a full-time position as a Software Developer.
 
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [Portfolio](http://mangeshahirrao.vercel.app/)
