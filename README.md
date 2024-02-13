@@ -8,7 +8,7 @@ I am a recent 2023 graduate with a BS in Mathematics and Economics and a minor i
 
 Throughout my academic career, I have been actively engaged in multiple internships, allowing me to contribute to various projects and gain valuable experience. I am currently looking for a full-time position as a Software Developer.
 
-* 🌍  I'm based in United States
+* 🌍  I'm based in the United States and ready to relocate or work remotely.
 * 🖥️  See my portfolio at [Portfolio](http://mangeshahirrao.vercel.app/)
 * ✉️  You can contact me at [mahirrao925@gmail.com](mailto:mahirrao925@gmail.com)
 * 🚀  I'm currently working on [DocuChatter-AI](http://docuchatter.vercel.app/)
