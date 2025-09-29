@@ -1,15 +1,27 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi!
 I'm Mangesh Ahirrao
 =======================================================================================================================================
 
-Full-Stack Software Developer
+Software Engineer (Full-Stack)
 -----------------------------------------------
 
-As a software developer with a background in Math and Economics from Iowa State University, I architect and build robust applications using **Python, TypeScript, React, and Node.js**. I specialize in tackling complex technical challenges, from engineering data pipelines with third-party APIs to optimizing application performance and automating critical workflows. My experience in developing analytics platforms, healthcare tools, and SaaS products is focused on creating clean, high-impact solutions. I am looking for a new opportunity to apply my technical skills to solve meaningful problems.
+As a software engineer with 2+ years of industry experience, I build scalable applications using **Python, TypeScript, React, and Node.js**. I specialize in developing AI-powered platforms, healthcare tools, and SaaS applications with a focus on frontend and backend performance optimization and automation. My experience spans from architecting microservices with AWS to building RAG applications with vector databases.
 
-* 🌍  I'm based in the United States and ready to relocate or work remotely.
-* 🖥️  See my portfolio at [Portfolio](https://mangeshahirrao.com/)
-* ✉️  You can contact me at [mahirrao925@gmail.com](mailto:mahirrao925@gmail.com)
+Currently working on AI documentation platforms that convert clinician audio to timestamped transcripts, reducing finalization time by 20%. I've built everything from expense management systems with predictive budgeting to medical assistant applications using LangChain and modern ML frameworks.
+
+* 🌍  I'm based in the United States and open to remote or on-site opportunities
+* 🖥️  See my portfolio at [mangesh.dev](https://mangesh.dev/)
+* ✉️  You can contact me at [mahirrao2509@gmail.com](mailto:mahirrao2509@gmail.com)
+* 🚀  Currently working on AI-powered healthcare solutions and automation platforms
+* 🧠  Learning advanced ML engineering and cloud-native architectures
+* ⚡  Fun fact: I've automated workflows that saved 70% of manual administrative tasks
+
+### Recent Projects
+
+**🏥 AI Documentation Platform** - AWS microservices with Node.js, FastAPI, and PostgreSQL for healthcare transcription  
+**💰 AI Expense Management System** - Full-stack platform with Gemini AI, Next.js, and automated budgeting features  
+**🩺 Medical RAG Application** - LangChain-powered assistant with vector search and secure document processing  
+**📊 GPT-4 Analytics Pipeline** - ChromaDB vector search system for internal workflow automation
 
 ### Skills
 
@@ -56,3 +68,4 @@ As a software developer with a background in Math and Economics from Iowa State 
     </picture>
 </a>
 </p>
+
