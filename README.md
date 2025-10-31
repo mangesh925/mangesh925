@@ -5,7 +5,7 @@ I'm Mangesh Ahirrao
 Software Engineer (Full-Stack)
 -----------------------------------------------
 
-As a software engineer with 2+ years of industry experience, I build scalable applications using **Python, C++ TypeScript, React, Node.js, and Java**. I specialize in developing AI-powered platforms, healthcare tools, and SaaS applications with a focus on frontend and backend performance optimization and automation. My experience spans from architecting microservices with AWS to building RAG applications with vector databases.
+As a software engineer with 2+ years of industry experience, I build scalable applications using **Python, C++, JavaScript, TypeScript, React, Node.js, and Java**. I specialize in developing AI-powered platforms, healthcare tools, and SaaS applications with a focus on frontend and backend performance optimization and automation. My experience spans from architecting microservices with AWS to building RAG applications with vector databases.
 
 Currently working on AI documentation platforms that convert clinician audio to timestamped transcripts, reducing finalization time by 20%. I've built everything from expense management systems with predictive budgeting to medical assistant applications using LangChain and modern ML frameworks.
 
