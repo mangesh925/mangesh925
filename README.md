@@ -24,7 +24,7 @@ Currently working on AI documentation platforms that convert clinician audio to 
 **📊 GPT-4 Analytics Pipeline** - ChromaDB vector search system for internal workflow automation
 
 ### 📄 Resume
-[View PDF Resume](https://drive.google.com/file/d/1u0cZjfvNIBsFHfRyOPSa2TbVMYH14pRj/view?usp=sharing) | [Download Resume](https://drive.google.com/uc?export=download&id=1u0cZjfvNIBsFHfRyOPSa2TbVMYH14pRj)
+[View PDF Resume](https://drive.google.com/file/d/1A7kLQF0xJGndtJGfh9jU6Qry_696bIjO/view?usp=sharing)
 
 
 ### Skills
