@@ -23,9 +23,6 @@ Currently working on AI documentation platforms that convert clinician audio to 
 **🩺 Medical RAG Application** - LangChain-powered assistant with vector search and secure document processing  
 **📊 GPT-4 Analytics Pipeline** - ChromaDB vector search system for internal workflow automation
 
-### 📄 Resume
-[View PDF Resume](https://drive.google.com/file/d/1A7kLQF0xJGndtJGfh9jU6Qry_696bIjO/view?usp=sharing)
-
 
 ### Skills
 
